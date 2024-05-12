@@ -1,0 +1,8 @@
+[core]
+    remote = assignmnet002
+['remote "mloptask6"']
+    url = gdrive://192ypBs9xYeIQNrvNIe6YTy2zPi4eFlXu
+['remote "assignmnet2"']
+    url = gdrive://192ypBs9xYeIQNrvNIe6YTy2zPi4eFlXu
+['remote "assignmnet002"']
+    url = gdrive://192ypBs9xYeIQNrvNIe6YTy2zPi4eFlXu
